@@ -39,7 +39,7 @@ This project demonstrates the use of **spinners**, **input fields**, **event lis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unit-converter-android.git
+   git clone https://github.com/tarun3695/unit-converter-android.git
 2. Open the project in Android Studio
 
 3. Connect an emulator or Android device

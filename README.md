@@ -14,76 +14,78 @@ This project demonstrates the use of **spinners**, **input fields**, **event lis
 
 ## ✨ Features
 
-- 📏 Convert Length (meters, kilometers, inches, feet)
-- ⚖️ Convert Weight (grams, kilograms, pounds)
-- 🌡️ Convert Temperature (Celsius, Fahrenheit, Kelvin)
-- 🧪 Convert Volume (liters, milliliters, gallons)
-- ⏱️ Instant conversion results
-- ✅ Simple and responsive UI
+      - 📏 Convert Length (meters, kilometers, inches, feet)
+      - ⚖️ Convert Weight (grams, kilograms, pounds)
+      - 🌡️ Convert Temperature (Celsius, Fahrenheit, Kelvin)
+      - 🧪 Convert Volume (liters, milliliters, gallons)
+      - ⏱️ Instant conversion results
+      - ✅ Simple and responsive UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Component       | Description                 |
-|-----------------|-----------------------------|
-| Java / Kotlin   | Programming language         |
-| Android Studio  | Development environment      |
-| XML             | UI layout design             |
-| Spinner & EditText | For input and selection   |
-| Toast/TextView  | Display conversion results   |
+      | Component       | Description                 |
+      |-----------------|-----------------------------|
+      | Java / Kotlin   | Programming language         |
+      | Android Studio  | Development environment      |
+      | XML             | UI layout design             |
+      | Spinner & EditText | For input and selection   |
+      | Toast/TextView  | Display conversion results   |
 
 ---
 
-## 🚀 How to Run
+         ## 🚀 How to Run
+         
+         1. Clone the repository:
+            ```bash
+            git clone https://github.com/tarun3695/unit-converter-android.git
+         2. Open the project in Android Studio
+         
+         3. Connect an emulator or Android device
+         
+         4. Run the app and start converting!
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tarun3695/unit-converter-android.git
-2. Open the project in Android Studio
-
-3. Connect an emulator or Android device
-
-4. Run the app and start converting!
-
-📂 Folder Structure
-
-UnitConverter/
-├── MainActivity.java (or .kt)
-├── res/
-│   ├── layout/activity_main.xml
-│   └── values/strings.xml
-├── AndroidManifest.xml
-└── README.md
-
-
-🧠 Learning Objectives
-Handle user input with EditText
-
-Use Spinner for unit selection
-
-Apply conditional logic and conversion formulas
-
-Practice clean UI layout and feedback mechanisms
-
-Understand activity lifecycle and UI updates
+         📂 Folder Structure
+         
+               UnitConverter/
+               ├── MainActivity.java (or .kt)
+               ├── res/
+               │   ├── layout/activity_main.xml
+               │   └── values/strings.xml
+               ├── AndroidManifest.xml
+               └── README.md
 
 
-🔮 Future Enhancements
+      🧠 Learning Objectives
+      
+            Handle user input with EditText
+            
+            Use Spinner for unit selection
+            
+            Apply conditional logic and conversion formulas
+            
+            Practice clean UI layout and feedback mechanisms
+            
+            Understand activity lifecycle and UI updates
 
-Add currency conversion using API
 
-Add time and speed unit categories
+      🔮 Future Enhancements
 
-Store recent conversions or history
+         Add currency conversion using API
+         
+         Add time and speed unit categories
+         
+         Store recent conversions or history
+         
+         Add support for dark mode
+         
+         Add animations or transitions
 
-Add support for dark mode
-
-Add animations or transitions
-
-👨‍💻 Developed By
-Tarun Kumar
-Android Developer | GitHub: @tarun3695
+      👨‍💻 Developed By
+      
+         Tarun Kumar
+         Android Developer | GitHub: @tarun3695
 
 
 
